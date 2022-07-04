@@ -1,6 +1,6 @@
 ## PyComposition21
 
-this is the repository corresponding to the article "Creation of tools and materials for composition from data  and metadata"
+This repository corresponds to the article "Creation of tools and materials for composition from data  and metadata".
 
 To see the example model, open the file "NicePyComposition.ipynb" in Google Collab.
 
